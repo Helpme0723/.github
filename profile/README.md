@@ -1,6 +1,6 @@
 # 최종 프로젝트 사용자 창작물 플랫폼
 
-![favicon](https://github.com/user-attachments/assets/c9ce2feb-8b0e-42eb-ba95-0e16eec610cb)
+<img src="https://github.com/user-attachments/assets/c9ce2feb-8b0e-42eb-ba95-0e16eec610cb" alt="favicon" width="300" height="300">
 
 ## TalentVerse
 - [배포 웹 사이트 링크]()
