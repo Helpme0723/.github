@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/c9ce2feb-8b0e-42eb-ba95-0e16eec610cb" alt="favicon" width="300" height="300">
 
-## TalentVerse
+## <img src="https://github.com/user-attachments/assets/c9ce2feb-8b0e-42eb-ba95-0e16eec610cb" alt="favicon" width="30" height="30">TalentVerse
 - [배포 웹 사이트 링크]() -경로 추가필요
 - [API 명세서링크](https://teamsparta.notion.site/079afbd71f7e47da9bbd2c45b85a0151)
 - [ERD 링크]() - 경로 추가필요
@@ -10,7 +10,7 @@
 
 
 
-### 프로젝트 소개
+### 📝프로젝트 소개
 - 사용자들이 자신의 창작물을 업로드하고, 해당 컨텐츠를 무료 혹은 구매하여 볼 수 있는 서비스입니다.
 
 
