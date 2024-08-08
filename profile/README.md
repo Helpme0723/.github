@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/c9ce2feb-8b0e-42eb-ba95-0e16eec610cb" alt="favicon" width="300" height="300">
 
 ## <img src="https://github.com/user-attachments/assets/c9ce2feb-8b0e-42eb-ba95-0e16eec610cb" alt="favicon" width="30" height="30"> TalentVerse
-- [배포 웹 사이트 링크]() -경로 추가필요
+- [배포 웹 사이트 링크](https://talentverse.vercel.app/)
 - [API 명세서링크](https://teamsparta.notion.site/079afbd71f7e47da9bbd2c45b85a0151)
 - [ERD 링크]() - 경로 추가필요
 - [시연 영상 링크]() -경로 추가필요
