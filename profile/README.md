@@ -1,12 +1,109 @@
-## Hi there 👋
+# 최종 프로젝트 사용자 창작물 플랫폼
 
-<!--
+![favicon](https://github.com/user-attachments/assets/c9ce2feb-8b0e-42eb-ba95-0e16eec610cb)
 
-**Here are some ideas to get you started:**
+## TalentVerse
+- [배포 웹 사이트 링크]()
+- [API 명세서링크](https://teamsparta.notion.site/079afbd71f7e47da9bbd2c45b85a0151)
+- [ERD 링크]()
+- [시연 영상 링크]()
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+### 프로젝트 소개
+- 사용자들이 자신의 창작물을 업로드하고, 해당 컨텐츠를 무료 혹은 구매하여 볼 수 있는 서비스입니다.
+
+
+### 📌 주요 기능
+
+<details>
+  <summary>1. 인증</summary>
+  <div markdown="1">
+    <ul>
+      <li>회원가입 : 사용자는 이메일과 패스워드, 사용자 이름을 입력하여 회원가입 할 수 있습니다.</li>
+      <li> 로그인 : 회원가입에 성공한 사용자는 이메일과 패스워드를 통하여 로그인 할 수 있습니다.</li>
+      <li>로그아웃 : 로그인한 사용자의 리프레쉬 토큰이 삭제됩니다.</li>
+      <li>토큰 재발급 : 만료된 액세스 토큰을 리프레쉬 토큰을 사용하여 재발급합니다.</li>
+      <li>이메일 중복 조회 : 회원가입시 이미 있는 이메일이 있는지 체크 할 수 있습니다.</li>
+      <li>비밀번호 찾기 : 사용자가 비밀번호를 잃어버리면 찾을 수 있습니다.</li>
+      <li>회원탈퇴 : 로그인한 사용자의 정보가 삭제됩니다.</li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary>2. 내 정보 관리</summary>
+  <div markdown="2">
+    <ul>
+      <li>내 정보 조회 : 로그인한 사용자는 본인의 정보를 조회할 수 있습니다.</li>
+      <li>내 정보 수정 : 로그인한 사용자는 본인의 이름, 자기소개 등을 수정할 수 있습니다.</li>
+      <li>타 유저 정보 조회 : 로그인한 사용자는 타인의 정보를 조회할 수 있습니다.</li>
+      <li>비밀번호 수정 : 로그인한 사용자는 본인의 비밀번호를 변경할 수 있습니다.</li>
+      <li>불호 태그 추가 : 로그인한 사용자는 본인이 싫어하는 태그를 추가 할 수 있습니다.</li>
+      <li>불호 태그 삭제 : 로그인한 사용자는 본인이 추가한 태그를 삭제 할 수있습니다. </li>
+      <li>알림 설정 : 로그인한 사용자는 본인이 받고싶은 알림을 설정할 수 있습니다.</li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary>3. 채널</summary>
+  <div markdown="3">
+    <ul>
+      <li>채널 생성 : 로그인한 사용자는 본인의 채널을 여러개 만들 수 있습니다.</li>
+      <li>내 채널 전체 조회 : 사용자가 만든 모든 채널의 목록을 조회 할 수 있습니다.</li>
+      <li>타 유저 채널 전체 조회 : 사용자는 다른 유저의 채널을 볼 수 있습니다.</li>
+      <li>채널 상세 조회 : 사용자가 만든 채널의 세부정보를 볼 수 있습니다.</li>
+      <li>채널 정보 수정 : 사용자가 만든 채널의 세부정보를 수정 할 수 있습니다.</li>
+      <li>채널 정보 삭제 : 사용자가 만든 채널을 삭제 할 수 있습니다.</li>
+      <li>내 채널 통계 조회 : 사용자가 만든 채널의 일간 통계, 월간 통계를 조회 할 수 있습니다.</li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary>4. 시리즈</summary>
+  <div markdown="4">
+    <ul>
+      <li>시리즈 생성 : 로그인한 사용자는 포스트를 넣을 시리즈를 만들 수 있습니다.</li>
+      <li>시리즈 조회 : 로그인한 사용자는 본인이 만든 시리즈를 조회 할 수 있습니다.</li>
+      <li>시리즈 상세 조회 : 사용자는 본인이 만든 시리즈의 세부정보를 조회 할 수 있습니다.</li>
+      <li>시리즈 정보 수정 : 사용자는 본인이 만든 시리즈의 세부정보를 수정 할 수 있습니다.</li>
+      <li>시리즈 삭제 : 사용자는 본인이 만든 시리즈를 삭제 할 수 있습니다.</li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary>5. 포스트</summary>
+  <div markdown="5">
+    <ul>
+      <li>포스트 작성 : 로그인한 사용자는 본인의 창작물을 유/무료로 업로드 할 수 있습니다. </li>
+      <li>전체 포스트 조회 : 로그인한 사용자는 </li>
+      <li>포스트 상세조회 : 로그인한 사용자는 </li>
+      <li>포스트 수정 : 로그인한 사용자는 </li>
+      <li>포스트 삭제 : 로그인한 사용자는 </li>
+      <li>포스트 좋아요 등록 : 로그인한 사용자는 </li>
+      <li>포스트 좋아요 취소 : 로그인한 사용자는 리뷰에 '좋아요'를 해제할 수 있습니다.</li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary>6. 펫 시터 조회 기능</summary>
+  <div markdown="6">
+    <ul>
+      <li>펫 시터 목록 조회 : 모든 사용자는 펫 시터의 목록을 조회할 수 있습니다.</li>
+      <li>펫 시터 상세 조회 : 모든 사용자는 펫 시터의 상세 정보를 조회할 수 있습니다.</li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary>7. 펫 시터 이미지 업로드 기능</summary>
+  <div markdown="7">
+    <ul>
+      <li>이미지 업로드 : 펫 시터는 본인의 프로필에 이미지를 업로드할 수 있습니다.</li>
+    </ul>
+  </div>
+</details>
