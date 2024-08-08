@@ -3,10 +3,10 @@
 <img src="https://github.com/user-attachments/assets/c9ce2feb-8b0e-42eb-ba95-0e16eec610cb" alt="favicon" width="300" height="300">
 
 ## TalentVerse
-- [배포 웹 사이트 링크]()
+- [배포 웹 사이트 링크]() -경로 추가필요
 - [API 명세서링크](https://teamsparta.notion.site/079afbd71f7e47da9bbd2c45b85a0151)
-- [ERD 링크]()
-- [시연 영상 링크]()
+- [ERD 링크]() - 경로 추가필요
+- [시연 영상 링크]() -경로 추가필요
 
 
 
@@ -165,7 +165,7 @@
 
 ### 프로젝트 설치 및 실행 방법 (with npm)
 
-#### 1. 프로젝트 clone(음 애매함 링크가 있어서?)
+#### 1. 프로젝트 clone(배포링크가 있어서 일단 어캐할지 몰라 냅뒀어요)
 
 
 
