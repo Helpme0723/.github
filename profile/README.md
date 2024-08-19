@@ -1,20 +1,32 @@
-# 최종 프로젝트 사용자 창작물 플랫폼
+# 📖 TalentVerse 📖
 
-<img src="https://github.com/user-attachments/assets/c9ce2feb-8b0e-42eb-ba95-0e16eec610cb" alt="favicon" width="300" height="300">
+![프레젠테이션1](https://github.com/user-attachments/assets/36ec18d8-fafa-41af-96fe-e1af09152214)
 
-## <img src="https://github.com/user-attachments/assets/c9ce2feb-8b0e-42eb-ba95-0e16eec610cb" alt="favicon" width="30" height="30"> TalentVerse
-- [배포 웹 사이트 링크](https://talentverse.vercel.app/)
-- [API 명세서링크](https://teamsparta.notion.site/079afbd71f7e47da9bbd2c45b85a0151)
-- [ERD 링크]() - 경로 추가필요
-- [시연 영상 링크]() -경로 추가필요
+&nbsp;
 
+# 📌 프로젝트 개요
 
+👉🏼 [Entity Relationship Diagram](https://www.erdcloud.com/d/NQKHhEdS9LDiMjH2X)
 
-### 📝프로젝트 소개
-- 사용자들이 자신의 창작물을 업로드하고, 해당 컨텐츠를 무료 혹은 구매하여 볼 수 있는 서비스입니다.
+👉🏼 [팀 Notion](https://www.notion.so/teamsparta/079afbd71f7e47da9bbd2c45b85a0151)
 
+👉🏼 [배포 URL](https://talentverse.vercel.app/)
 
-### 📌 주요 기능
+&nbsp;
+
+# 📌 프로젝트 설명
+
+**사용자들이 자신의 창작물을 업로드하고, 다른 사람들이 해당 콘텐츠를 무료 혹은 구매하여 열람할 수 있는 서비스**
+
+사용자들이 자신의 창작물을 업로드하고, 다른 사람들이 이를 무료로 감상하거나 유료로 구매할 수 있는 플랫폼입니다.
+
+창작자들은 소설, 정보글, 만화 등 다양한 형식의 콘텐츠를 업로드하며, 이를 통해 자신의 작품을 알리고 수익을 창출할 수 있습니다. 또한, 사용자들은 원하는 콘텐츠를 자유롭게 탐색하고, 필요에 따라 무료로 열람하거나 유료로 구매할 수 있습니다.
+
+창작자와 소비자를 연결해 창작물이 쉽게 공유되고, 창작자들이 작품에 대해 보상을 받을 수 있도록 서비스를 기획하게 되었습니다.
+
+&nbsp;
+
+# 📌 구현 기능
 
 <details>
   <summary>1. 인증</summary>
@@ -163,19 +175,9 @@
   </div>
 </details>
 
-### 프로젝트 설치 및 실행 방법 (with npm)
+&nbsp;
 
-#### 1. 프로젝트 clone(배포링크가 있어서 일단 어캐할지 몰라 냅뒀어요)
-
-
-
-
-
-
-
-## 📜 프로젝트 기획 및 설계
-
-### [Code Convention](https://teamsparta.notion.site/Code-Convention-34099cda765f4e9594f657821c5437a6)
+# 📜 프로젝트 기획 및 설계
 
 ### Github Rules
 
@@ -187,7 +189,13 @@
 | ♻️ Refactor | 코드 리팩토링                            |
 | 🩹 Fix      | 코드 수정                                |
 
-## 📌 기술 스택
+### Code Convention
+
+![스크린샷 2024-08-20 001852](https://github.com/user-attachments/assets/5570c11b-2a9b-4a90-b216-c113caf8d437)
+
+&nbsp;
+
+# 📌 기술 스택
 
 ### Environment
 
@@ -197,6 +205,10 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Development
+
+👉🏼 [BE Development](https://github.com/Helpme0723/back-end?tab=readme-ov-file#-be-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
+
+👉🏼 [FE Development](https://github.com/Helpme0723/front-end?tab=readme-ov-file#-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -216,8 +228,9 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
+&nbsp;
 
-## 👨‍👨‍👦‍👦 프로젝트 제작 인원
+# 👨‍👨‍👦‍👦 프로젝트 제작 인원
 
 <table>
   <tbody>
@@ -230,4 +243,3 @@
     </tr>
   </tbody>
 </table>
-
