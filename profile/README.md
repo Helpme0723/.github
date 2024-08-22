@@ -195,6 +195,13 @@
 
 &nbsp;
 
+# 🏗️ 서비스 아키텍처
+
+![서비스 아키텍처](https://github.com/user-attachments/assets/d9519ef9-d218-4964-ba4e-583152e79014)
+
+
+&nbsp;
+
 # 📌 기술 스택
 
 ### Environment
