@@ -6,6 +6,8 @@
 
 # 📌 프로젝트 개요
 
+👉🏼 [TalentVerse 브로셔](https://www.notion.so/teamsparta/TalentVerse-3881c05caddb4c4da702af11500739b2)
+
 👉🏼 [Entity Relationship Diagram](https://www.erdcloud.com/d/NQKHhEdS9LDiMjH2X)
 
 👉🏼 [팀 Notion](https://www.notion.so/teamsparta/079afbd71f7e47da9bbd2c45b85a0151)
