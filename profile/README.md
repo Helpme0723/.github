@@ -8,8 +8,6 @@
 
 👉🏼 [TalentVerse 브로셔](https://www.notion.so/teamsparta/TalentVerse-3881c05caddb4c4da702af11500739b2)
 
-👉🏼 [Entity Relationship Diagram](https://www.erdcloud.com/d/NQKHhEdS9LDiMjH2X)
-
 👉🏼 [팀 Notion](https://www.notion.so/teamsparta/079afbd71f7e47da9bbd2c45b85a0151)
 
 👉🏼 [배포 URL](https://talentverse.vercel.app/)
@@ -170,6 +168,15 @@
 &nbsp;
 
 # 📜 프로젝트 기획 및 설계
+
+👉🏼 [프로젝트 기획](https://www.notion.so/teamsparta/SA-3774a955c77f4245990167397000c81e)
+
+👉🏼 [서비스 정책](https://www.notion.so/teamsparta/102cccadd66240648bd46936dd0ee394)
+
+👉🏼 [Entity Relationship Diagram](https://www.erdcloud.com/d/NQKHhEdS9LDiMjH2X)
+
+👉🏼 [API 명세서](https://www.notion.so/teamsparta/848141f599e9470a9d4c31680619a581?v=aa4797ca8b05437f988d81f60400748c)
+
 
 ### Github Rules
 
